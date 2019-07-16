@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2019/07/16, 10:50:55
+    Author     : donch
+*/
+.nav{
+    display: flex;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.navMenu{
+    border: 1px dashed;
+    margin: 3px 10px;
+}
+
+.content {
+    display: block;
+}
+
+.inputLine{
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.inputHead{
+    width: 90px;
+}
+
+
+
